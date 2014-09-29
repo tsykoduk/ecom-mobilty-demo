@@ -10,7 +10,7 @@ Either click on the Button and then skip forward to setting up Heroku Connect, o
 git clone git@github.com:tsykoduk/ecom-mobilty-demo.git
 ```
 
-1. Change to the new directory, and then create a Heroku app, and add the correct addons:
+2. Change to the new directory, and then create a Heroku app, and add the correct addons:
 
 ```sh
 cd ecom-mobilty-demo/

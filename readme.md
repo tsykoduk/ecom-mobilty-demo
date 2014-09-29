@@ -7,7 +7,8 @@ Either click on the Button and then skip forward to setting up Heroku Connect, o
 1. Get the code from github:
 
 ```sh
-git clone git@github.com:tsykoduk/ecom-mobilty-demo.git```
+git clone git@github.com:tsykoduk/ecom-mobilty-demo.git
+```
 
 1. Change to the new directory, and then create a Heroku app, and add the correct addons:
 
